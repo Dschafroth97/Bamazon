@@ -1,6 +1,6 @@
 # Bamazon
 
-## This is my mySQL and nodeJS assignment "Bamazon" 
+### This is my mySQL and nodeJS assignment "Bamazon" 
 
 All necessary files are included, as well as a seed for mySQL database. 
 To begin, type the command "node bamazonCustomer.js"
